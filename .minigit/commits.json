@@ -1,0 +1,10 @@
+[
+    {
+        "hash": "cdbe33985deb5777fbd28fe8aba7ac209cad62da",
+        "message": "First commit",
+        "timestamp": "2025-04-25T15:22:58.791619",
+        "files": {
+            "test.txt": "hello\n"
+        }
+    }
+]
